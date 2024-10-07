@@ -81,7 +81,7 @@ public class RaceManager {
 		raceList.add(scroll, BorderLayout.CENTER);
 
 		team = new JComboBox(new String[]{"Команда",
-		"McLaren", "Haas", "Alfa Romeo", "Williams",
+		"McLaren", "Haas", "Alfa Romeo", "Williams", 
 		"Red Bull Racing", "Aston Martin", "Alpine",
 		"Mercedes AMG Petronas", "AlphaTauri", "Ferrari"}); 
 		driver = new JTextField("Имя пилота");
